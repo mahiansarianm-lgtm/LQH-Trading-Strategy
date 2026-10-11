@@ -1,16 +1,11 @@
 cff-version: 1.2.0
-message: "If you use or reference the LQH Trading Strategy, please cite this work."
+message: "Please cite this work when referencing the LQH Trading Strategy."
 title: "LQH Trading Strategy: Liquidity Hunt Framework"
-abstract: >-
-LQH (Liquidity Hunt) is a trading methodology documented by Taha Ansari.
-This repository provides the project's public documentation and links
-to its archived publication.
 authors:
 
-- family-names: Ansari
-  given-names: Taha
-  version: 1.0
-  date-released: "2026-10-11"
+- family-names: "Ansari"
+  given-names: "Taha"
+  version: "1.0"
   doi: "10.5281/zenodo.23293053"
   url: "https://github.com/mahiansarianm-lgtm/LQH-Trading-Strategy"
-  license: NONE
+  date-released: "2026-10-11"
